@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="contas a pagar" max_length="40" name="x_snc_contas_a_p_0_contas_a_pagar" type="collection">
+        <element label="Anexar Documento" max_length="40" name="anexar_documento" type="file_attachment"/>
+        <element label="Centro de Custo" max_length="32" name="centro_de_custo" reference="cmn_cost_center" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Outro Tipo de Pagamento" max_length="40" name="outro_tipo_de_pagamento" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Prazo Para Pagamento" max_length="40" name="prazo_para_pagamento" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Produto/Serviço Adquirido" max_length="40" name="produto_servico_adquirido" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Razao Reembolso" max_length="40" name="razao_reembolso" type="string"/>
+        <element default="javascript:current.getTableName();" display="true" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Compra" label="Tipo Pagamento" max_length="40" name="tipo_pagamento" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Compra" sequence="0" value="compra"/>
+            </choice>
+        </element>
+        <element label="Valor" max_length="40" name="valor" type="currency"/>
+        <index name="index">
+            <element name="centro_de_custo"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

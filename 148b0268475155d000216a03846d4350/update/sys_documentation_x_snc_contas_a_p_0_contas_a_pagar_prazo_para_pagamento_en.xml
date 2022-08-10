@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="prazo_para_pagamento" label="Prazo Para Pagamento" language="en" table="x_snc_contas_a_p_0_contas_a_pagar">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>prazo_para_pagamento</element>
+            <help/>
+            <hint/>
+            <label>Prazo Para Pagamento</label>
+            <language>en</language>
+            <name>x_snc_contas_a_p_0_contas_a_pagar</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 18:51:04</sys_created_on>
+            <sys_id>a63e8220479155d000216a03846d4345</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>Prazo Para Pagamento</sys_name>
+            <sys_package display_value="Contas A Pagar" source="x_snc_contas_a_p_0">148b0268475155d000216a03846d4350</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contas A Pagar">148b0268475155d000216a03846d4350</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_contas_a_p_0_contas_a_pagar_prazo_para_pagamento_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 19:02:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

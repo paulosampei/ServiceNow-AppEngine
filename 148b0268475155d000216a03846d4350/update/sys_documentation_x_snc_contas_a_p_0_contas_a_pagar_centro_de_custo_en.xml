@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="centro_de_custo" label="Centro de Custo" language="en" table="x_snc_contas_a_p_0_contas_a_pagar">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>centro_de_custo</element>
+            <help/>
+            <hint/>
+            <label>Centro de Custo</label>
+            <language>en</language>
+            <name>x_snc_contas_a_p_0_contas_a_pagar</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 18:51:04</sys_created_on>
+            <sys_id>a23e8220479155d000216a03846d4363</sys_id>
+            <sys_mod_count>11</sys_mod_count>
+            <sys_name>Centro de Custo</sys_name>
+            <sys_package display_value="Contas A Pagar" source="x_snc_contas_a_p_0">148b0268475155d000216a03846d4350</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contas A Pagar">148b0268475155d000216a03846d4350</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_contas_a_p_0_contas_a_pagar_centro_de_custo_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 19:04:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
