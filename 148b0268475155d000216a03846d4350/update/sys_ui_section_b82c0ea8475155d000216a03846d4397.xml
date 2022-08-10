@@ -4,97 +4,125 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-10 19:09:07</sys_created_on>
-            <sys_id>32525ae8479155d000216a03846d43aa</sys_id>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4138aea8475555d000216a03846d43ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-10 19:09:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_by</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-10 19:09:07</sys_created_on>
-            <sys_id>b2525ae8479155d000216a03846d43aa</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-10 19:09:07</sys_updated_on>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tipo_pagamento</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-10 19:09:07</sys_created_on>
-            <sys_id>36525ae8479155d000216a03846d43aa</sys_id>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4938aea8475555d000216a03846d43ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-10 19:09:07</sys_updated_on>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>centro_de_custo</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-10 19:09:07</sys_created_on>
-            <sys_id>b6525ae8479155d000216a03846d43aa</sys_id>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4d38aea8475555d000216a03846d43ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-10 19:09:07</sys_updated_on>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>valor</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-10 19:09:07</sys_created_on>
-            <sys_id>3a525ae8479155d000216a03846d43aa</sys_id>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4138eea8475555d000216a03846d4300</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-10 19:09:07</sys_updated_on>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>anexar_documento</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-10 19:09:07</sys_created_on>
-            <sys_id>ba525ae8479155d000216a03846d43aa</sys_id>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4538eea8475555d000216a03846d4300</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-10 19:09:07</sys_updated_on>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>prazo_para_pagamento</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-10 19:09:07</sys_created_on>
-            <sys_id>3e525ae8479155d000216a03846d43aa</sys_id>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4938eea8475555d000216a03846d4300</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-10 19:09:07</sys_updated_on>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4d38eea8475555d000216a03846d4300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4138eea8475555d000216a03846d4301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 20:44:34</sys_created_on>
+            <sys_id>4538eea8475555d000216a03846d4301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contas a Pagar" display_value="Contas a Pagar" name="x_snc_contas_a_p_0_contas_a_pagar" sys_domain="global" view="Default view">b82c0ea8475155d000216a03846d4397</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 20:44:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

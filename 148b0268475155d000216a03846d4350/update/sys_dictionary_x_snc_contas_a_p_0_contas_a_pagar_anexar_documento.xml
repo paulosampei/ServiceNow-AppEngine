@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="">file_attachment</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_snc_contas_a_p_0_contas_a_pagar</name>
         <next_element/>
@@ -49,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-10 18:51:04</sys_created_on>
         <sys_id>6a3e8220479155d000216a03846d431b</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Anexar Documento</sys_name>
         <sys_package display_value="Contas A Pagar" source="x_snc_contas_a_p_0">148b0268475155d000216a03846d4350</sys_package>
         <sys_policy/>
         <sys_scope display_value="Contas A Pagar">148b0268475155d000216a03846d4350</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_contas_a_p_0_contas_a_pagar_anexar_documento</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-10 19:04:38</sys_updated_on>
+        <sys_updated_on>2022-08-10 20:44:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
